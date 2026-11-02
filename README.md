@@ -1,3 +1,19 @@
+# Matchbook V37 · Season Profiles
+
+[Pobierz najnowszą paczkę V37](https://github.com/Laubaxxxik/sigma/raw/refs/heads/main/Matchbook-V37-SEASON-PROFILES.zip?download=1)
+
+Każdy sezon ma własny profil zawodnika: klub, numer, pozycję, wzrost, wagę,
+wiek, zdjęcie i pozostałe dane. Tworzenie sezonu wymaga zapisania jego profilu;
+tożsamość przenosi się automatycznie. Edycja: **Seasons → Edit player profile**.
+
+Dotychczasowe dane są zachowane. Starszy wspólny profil jest kopiowany do istniejących
+sezonów i oznaczony do sprawdzenia. Zachowano paletę V36.1 i angielskie nazwy/datowanie.
+Paczka zawiera instrukcję, migrację danych, testy i raport QA.
+
+Udostępnienie ZIP-a nie aktualizuje automatycznie strony Vercel.
+
+---
+
 # Matchbook V36.1 · Unified English
 
 [Pobierz najnowszą paczkę V36.1](https://github.com/Laubaxxxik/sigma/raw/refs/heads/main/Matchbook-V36.1-UNIFIED-ENGLISH.zip?download=1)
