@@ -1,3 +1,15 @@
+# Matchbook Noir · Midnight Edition · V38.0
+
+[Pobierz pełną paczkę ZIP](https://github.com/Laubaxxxik/sigma/raw/refs/heads/matchbook-noir-v38-midnight/Matchbook-NOIR-V38.0-MIDNIGHT-EDITION.zip?download=1)
+
+Nowa ciemna powłoka całej aplikacji, przebudowany dashboard, centrum kariery, statystyki, kalendarz i Media. Zachowane silniki piłkarskie, dane historyczne i obsługa kopii JSON. Paczka zawiera pełny kod, raport, testy i zrzuty ekranu.
+
+Weryfikacja: 47 testów modeli nagród, 22 regresje piłkarskie, 21 kontroli galerii, 12 przepływów Noir, 8 kontroli odporności, 3 kontrole dogrywki/karnych oraz 126 renderów tras i szerokości ekranu. Szczegóły i ograniczenia: [raport](NOIR-DEVELOPMENT-REPORT.md).
+
+To osobna gałąź dostawy. Produkcja na Vercelu nie została automatycznie zmieniona.
+
+---
+
 # Matchbook V37 · Season Profiles
 
 [Pobierz najnowszą paczkę V37](https://github.com/Laubaxxxik/sigma/raw/refs/heads/main/Matchbook-V37-SEASON-PROFILES.zip?download=1)
